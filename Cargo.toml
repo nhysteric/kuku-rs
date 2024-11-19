@@ -1,0 +1,9 @@
+[package]
+name = "kuku-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+blake3 = "1.5.4"
+rand_core = "0.6.4"
+rand_pcg = "0.3.1"
